@@ -5,7 +5,10 @@ Sovetskiy;-37.2
 Saint-Jacques-de-la-Lande;-48.7
 Wokingham;-0.9
 Kikuyō;-65.5
-Rače;25.7
+Rače;125.7
+Rače;-25.7
+Rače;1525.7
+Rače;300
 Aiea;-48.6
 Longjumeau;-51.5
 Kherson;-66.2
