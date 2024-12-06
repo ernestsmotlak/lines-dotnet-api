@@ -1,0 +1,42 @@
+Ljubljana;100
+São Domingos do Maranhão;54.9
+Falla;-74.1
+Sovetskiy;-37.2
+Saint-Jacques-de-la-Lande;-48.7
+Wokingham;-0.9
+Kikuyō;-65.5
+Rače;25.7
+Aiea;-48.6
+Longjumeau;-51.5
+Kherson;-66.2
+Ciudad de Atlixco;67.6
+Greenwich;9.2
+Itumbiara;77.7
+Carteret;91.7
+Mersin;86.2
+Bayanan;-60.9
+Bochnia;91.6
+Hukou;88.3
+Zacatepec;17.4
+Francavilla Fontana;30.4
+Pahsara;10.6
+Carson City;-25.4
+Village Green-Green Ridge;67.2
+Lancing;-40.9
+Bassian;68.9
+Soanierana;34.0
+Gelemso;73.8
+Çatalca;22.0
+Winslow;-56.0
+New Glasgow;61.9
+Cajabamba;51.4
+Kall;49.9
+Malar;-45.1
+Rostraver;-54.3
+Cajati;1.4
+Lubbock;55.2
+Sindhnūr;-9.8
+Vólos;92.5
+Újfehértó;-95.1
+Al Jabāyish;30.2
+Petawawa;8.1

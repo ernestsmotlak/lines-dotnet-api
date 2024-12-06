@@ -25,7 +25,7 @@ namespace Lines.Controllers
                 City = kvp.Key,
                 Min = kvp.Value.Min,
                 Max = kvp.Value.Max,
-                Count = kvp.Value.Count,
+                // Count = kvp.Value.Count,
                 Average = kvp.Value.Average
             });
 
@@ -43,7 +43,7 @@ namespace Lines.Controllers
                     Min = data.Min,
                     Max = data.Max,
                     Average = data.Average,
-                    Count = data.Count
+                    // Count = data.Count
                 });
             }
 
@@ -56,7 +56,7 @@ namespace Lines.Controllers
         {
             try
             {
-                string filePath = "Data/measurements2.txt";
+                string filePath = "Data/measurements.txt";
                 loadData.LoadFromFile(filePath);
                 return Ok("Data reloaded!");
             }
