@@ -1,0 +1,127 @@
+{
+	"info": {
+		"_postman_id": "d4b49cb2-bd16-411a-8376-de624f96aa91",
+		"name": "LinesParse",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18123138"
+	},
+	"item": [
+		{
+			"name": "getAllCities",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-KEY",
+						"value": "secret-key",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5268/api/Cities",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5268",
+					"path": [
+						"api",
+						"Cities"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getSpecificCity",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-KEY",
+						"value": "secret-key",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5268/api/Cities/Rače",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5268",
+					"path": [
+						"api",
+						"Cities",
+						"Rače"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "filter",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-KEY",
+						"value": "secret-key",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5268/api/Cities/filter?minMax=10&greaterThan=true",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5268",
+					"path": [
+						"api",
+						"Cities",
+						"filter"
+					],
+					"query": [
+						{
+							"key": "minMax",
+							"value": "10"
+						},
+						{
+							"key": "greaterThan",
+							"value": "true"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "reaload",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "X-API-KEY",
+						"value": "secret-key",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5268/api/Cities/reload",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5268",
+					"path": [
+						"api",
+						"Cities",
+						"reload"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
