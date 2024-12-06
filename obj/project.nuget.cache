@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "RqLz8HrY/q8=",
+  "dgSpecHash": "t+gKNYi3JH4=",
   "success": true,
   "projectFilePath": "/Users/ernestsmotlak/Desktop/mojiProjekti/LineChallenge/lines/lines.csproj",
   "expectedPackageFiles": [
     "/Users/ernestsmotlak/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
-    "/Users/ernestsmotlak/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+    "/Users/ernestsmotlak/.nuget/packages/microsoft.openapi/1.6.22/microsoft.openapi.1.6.22.nupkg.sha512",
+    "/Users/ernestsmotlak/.nuget/packages/swashbuckle.aspnetcore.swagger/7.1.0/swashbuckle.aspnetcore.swagger.7.1.0.nupkg.sha512",
+    "/Users/ernestsmotlak/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.1.0/swashbuckle.aspnetcore.swaggergen.7.1.0.nupkg.sha512",
+    "/Users/ernestsmotlak/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.1.0/swashbuckle.aspnetcore.swaggerui.7.1.0.nupkg.sha512"
   ],
   "logs": []
 }
